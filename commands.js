@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import { program } from 'commander'
 import * as Index from './index.js'
 import inquirer from 'inquirer'
